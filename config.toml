@@ -1,0 +1,59 @@
+baseurl         = "http://example-test.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Excample Site"
+  subtitle    = "Testing Netlify and Github"
+  cover       = "northern.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = ""
+  fbName = ""
+  githubName = "ancahar2018"
+
+  logo = ""
+  orgName = "AH"
+  orgWebsite = ""
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Andy"
+  authorAvatar = "profil.png"
+  authorLocation = "New York"
+  authorWebsite = ""
+  authorDescription = "Tester"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Functions"
+  url = "/tags/functions/"
+  weight = 100
+
+[[menu.main]]
+  name = "Assets"
+  url = "/categories/assets/"
+  weight = 99
+
+[[menu.main]]
+  name = "Search"
+  url = "https://google.com/"
+  weight = 95
