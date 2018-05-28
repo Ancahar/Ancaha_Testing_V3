@@ -57,3 +57,7 @@ paginate        = 6
   name = "Search"
   url = "https://google.com/"
   weight = 95
+
+ backend:
+  name: github
+  repo: owner-name/repo-name
