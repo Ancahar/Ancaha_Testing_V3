@@ -32,6 +32,6 @@ categories: ["assets"]
 
 | Name        | Position           | ID  |
 | ------------- |:-------------:| -----:|
-| Susanne      | Sales | 1 |
+| ![alt text](https://github.com/Ancahar/Ancaha_Testing_V3/blob/master/static/profil.png	"Test")      | Sales | 1 |
 | Martin      | Accounting      |   2 |
 | Jochen | Front Desk     |    3 |
