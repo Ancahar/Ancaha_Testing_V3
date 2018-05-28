@@ -60,4 +60,4 @@ paginate        = 6
 
  backend:
   name: github
-  repo: https://github.com/Ancahar/Ancaha_Testing_V3.git
+  repo: Ancahar/Ancaha_Testing_V3.git
