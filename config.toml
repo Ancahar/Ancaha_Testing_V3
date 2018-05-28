@@ -54,6 +54,11 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
+  name = "Stories"
+  url = "/tags/Stories/"
+  weight = 99
+
+[[menu.main]]
   name = "Search"
   url = "https://google.com/"
   weight = 95
