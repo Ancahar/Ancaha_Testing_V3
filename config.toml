@@ -58,6 +58,3 @@ paginate        = 6
   url = "https://google.com/"
   weight = 95
 
- backend:
-  name: github
-  repo: Ancahar/Ancaha_Testing_V3.git
