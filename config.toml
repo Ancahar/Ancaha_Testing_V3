@@ -5,8 +5,8 @@ paginate = 6
 theme = "casper-two"
 [[menu.main]]
 name = "Imprint"
-url = "/"
-weight = 1
+url = "tags/imprint"
+weight = 2
 [[menu.main]]
 name = "Search"
 url = "https://google.com/"
