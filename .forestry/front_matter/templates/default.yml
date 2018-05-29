@@ -25,5 +25,8 @@ fields:
 - type: datetime
   name: pick_date
   label: Pick date
+- type: textarea
+  label: Description
+  name: description
 pages:
 - post/next-steps.md
