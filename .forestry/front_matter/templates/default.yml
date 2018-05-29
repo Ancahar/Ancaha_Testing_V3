@@ -29,4 +29,5 @@ fields:
   label: Description
   name: description
 pages:
+- post/test.md
 - post/next-steps.md
