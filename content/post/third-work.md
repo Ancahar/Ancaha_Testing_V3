@@ -1,11 +1,11 @@
 ---
-title: "FAQ"
-date: 2018-05-28T13:42:55+02:00
-draft: false
-image: ""
-tags: ["Stories"]
----
+title: FAQ
+date: 2018-05-28 13:42:55 +0200
+image: ''
+tags:
+- Stories
 
+---
 Lorem ipsum dolor sit amet, no qui singulis volutpat, quem oblique vituperata eu eam. Eu mea hinc alterum tincidunt. Civibus ocurreret at vix. Dictas platonem dissentiet vim in, falli malorum eos ut.
 
 Alii expetendis est ei, ne debet fierent sensibus nam, mel in doming sensibus. Modo suavitate et duo, cu sale debitis omittam per, nam euripidis deterruisset et. Ne dicunt propriae patrioque mea, mea malorum omnesque ea, singulis gubergren ad nec. Pro solet dignissim no, justo velit iudicabit qui te. Discere dolores referrentur est ea, dolores probatus in quo, usu id impetus dolorum.

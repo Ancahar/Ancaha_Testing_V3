@@ -1,10 +1,9 @@
 ---
-title: "Explaining upload process"
-date: 2018-05-25T13:02:27+02:00
-draft: false
-image: "universe.jpg"
----
+title: Explaining upload process
+date: 2018-05-25 13:02:27 +0200
+image: universe.jpg
 
+---
 # Upload procedure
 Test
 

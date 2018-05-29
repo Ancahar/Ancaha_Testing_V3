@@ -1,12 +1,13 @@
 ---
-title: "Uses cases"
-date: 2018-05-25T11:27:56+02:00
-draft: false
-image: "earth.jpg"
-tags: ["functions"]
-categories: ["assets"]
----
+title: Uses cases
+date: 2018-05-25 11:27:56 +0200
+image: earth.jpg
+tags:
+- functions
+categories:
+- assets
 
+---
 # Branches
 ## Maturity
 ### Interest

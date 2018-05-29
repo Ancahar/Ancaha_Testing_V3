@@ -1,65 +1,54 @@
-baseurl         = ""
-theme           = "casper-two"
-languageCode    = "en-US"
+baseurl = ""
 disqusShortname = ""
-paginate        = 6
-#SectionPagesMenu = "main"
-
+languageCode = "en-US"
+paginate = 6
+theme = "casper-two"
+[[menu.main]]
+name = "Imprint"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Search"
+url = "https://google.com/"
+weight = 1
+[[menu.main]]
+name = "Stories"
+url = "/tags/Stories/"
+weight = 2
+[[menu.main]]
+name = "Assets"
+url = "/categories/assets/"
+weight = 3
+[[menu.main]]
+name = "Functions"
+url = "/tags/functions/"
+weight = 4
+[[menu.main]]
+name = "Main"
+url = "/"
+weight = 5
 [params]
-  title       = "Excample Site"
-  subtitle    = "Testing Netlify and Github"
-  cover       = "northern.jpg"
-  description = "Here is a description of your site."
-  metaDescription = ""
-  googleAnalytics = ""
-  customCSS = []
-  RSSLink = ""
-
-  twitterName = ""
-  fbName = ""
-  githubName = "ancahar2018"
-
-  logo = ""
-  orgName = "AH"
-  orgWebsite = ""
-  orgDescription = "Here is a description placeholder for your org"
-
-  author = "Andy"
-  authorAvatar = "profil.png"
-  authorLocation = "New York"
-  authorWebsite = ""
-  authorDescription = "Tester"
-
-  pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
-  singleViewStyle = "casper"
-
+author = "Andy"
+authoravatar = "profil.png"
+authordescription = "Tester"
+authorlocation = "New York"
+authorwebsite = ""
+cover = "northern.jpg"
+customcss = []
+description = "Here is a description of your site."
+fbname = ""
+githubname = "ancahar2018"
+googleanalytics = ""
+logo = ""
+metadescription = ""
+orgdescription = "Here is a description placeholder for your org"
+orgname = "AH"
+orgwebsite = ""
+pagenotfoundtitle = "404 - Page not found"
+rsslink = ""
+singleviewstyle = "casper"
+subtitle = "Testing Netlify and Github"
+title = "Excample Site"
+twittername = ""
 [permalinks]
-  post = "/:slug/"
-
-[[menu.main]]
-  name = "Main"
-  url = "/"
-  weight = 200
-
-[[menu.main]]
-  name = "Functions"
-  url = "/tags/functions/"
-  weight = 100
-
-[[menu.main]]
-  name = "Assets"
-  url = "/categories/assets/"
-  weight = 99
-
-[[menu.main]]
-  name = "Stories"
-  url = "/tags/Stories/"
-  weight = 99
-
-[[menu.main]]
-  name = "Search"
-  url = "https://google.com/"
-  weight = 95
-
+post = "/:slug/"
