@@ -2,7 +2,7 @@
 date = "2018-05-29T10:05:01+00:00"
 image = ""
 title = "Next steps"  
-tags: ["Imprint", "functions"]
+tags: ["imprint", "functions"]
 
 +++
 **Cicero**
