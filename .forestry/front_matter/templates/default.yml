@@ -22,5 +22,8 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: datetime
+  name: pick_date
+  label: Pick date
 pages:
 - post/next-steps.md
